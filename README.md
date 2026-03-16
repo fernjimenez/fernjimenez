@@ -14,7 +14,7 @@ I’m an **Analytics Engineer** with a track record of building reliable data sy
 
 ## 🏆 Key Highlights
 
-- Joined **Hiive as employee #8** and contributed to scaling the company past **175 employees**, from operations analyst to senior operatins analyst to analytics engineer.  
+- Joined **Hiive as employee #8** and contributed to scaling the company past **175 employees**, from operations analyst to senior operations analyst to analytics engineer.  
 - Designed and implemented **data models and marts** that are actively used by cross-functional teams for critical business decisions.  
 - Experienced in **fintech operations and regulatory-compliant product analytics**, bridging technical execution with business strategy.  
 
