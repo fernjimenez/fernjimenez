@@ -22,6 +22,6 @@ I’m an **Analytics Engineer** with a track record of building reliable data sy
 
 ## 📫 Connect with Me
 
-- **Website:** [Coming Soon](https://www.linkedin.com/in/fernjimenez/)
+- **Website:** [Builtbyfern](https://builtbyfern.ca/)
 - **Email:** [fernjimenez@icloud.com](mailto:fernjimenez@icloud.com)  
 - **LinkedIn:** [linkedin.com/in/fernjimenez](https://www.linkedin.com/in/fernjimenez/)
